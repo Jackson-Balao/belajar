@@ -3,8 +3,7 @@ matrikspenjumlahan
 tandatambah
 tandakurang 
 
-tandatanya
-tandabahagi
+
 
 
 website,matriks,penjumlahan
