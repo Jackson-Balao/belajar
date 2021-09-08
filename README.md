@@ -1,8 +1,6 @@
 # belajar
 matrikspenjumlahan
-tandatambah
-tandakurang 
-
+saya ingin menjadi iron man
 
 
 
