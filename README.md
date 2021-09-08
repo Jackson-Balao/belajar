@@ -51,7 +51,7 @@ int main()
     return 0;
 }
 
-// buat ini dulu
+saya
 void inputDataMat (int matA[][10], int baris, int kolom)
 {
     // masukkan data
