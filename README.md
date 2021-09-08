@@ -14,13 +14,7 @@ link,belajar,matriks
 #include <iostream>
 
 using namespace std;
-
-void inputDataMat (int matA[][10], int baris, int kolom);
-void tampilDataMat (int matA[][10], int baris, int kolom);
-void jumlahkanMatriks (int matA[][10], int matB[][10],
-                        int matHasil[][10], int baris, int kolom);
-void kalikanMatriks (int matA[][10], int matB[][10],
-                        int matHasil[][10], int baris, int kolom);
+, int kolom);
 
 int main()
 {
@@ -65,6 +59,12 @@ void inputDataMat (int matA[][10], int baris, int kolom)
     }
 }
 
+void inputDataMat (int matA[][10], int baris, int kolom);
+void tampilDataMat (int matA[][10], int baris, int kolom);
+void jumlahkanMatriks (int matA[][10], int matB[][10],
+                        int matHasil[][10], int baris, int kolom);
+void kalikanMatriks (int matA[][10], int matB[][10],
+                        int matHasil[][10], int 
 void tampilDataMat (int matA[][10], int baris, int kolom)
 {
     for (int i=0; i < baris; i++)
